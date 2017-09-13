@@ -15,7 +15,7 @@ A 'Why?' could be:
 - A tip about a future Ansible improvement that makes the practice relevant or required.
 - A story about mistake your team dealt with when practice wasn't followed.
 - A story about something cool that happened when the practice was followed.
-- Consistancy with another style
+- Consistency with another style
 
 "So everyone does it the same way" is a valid "Why?", and better than nothing, but these are hard to discuss!
 
